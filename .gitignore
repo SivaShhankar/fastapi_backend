@@ -1,0 +1,10 @@
+﻿.env
+__pycache__/
+*.py[cod]
+.myenv/
+myenv/
+.pytest_cache/
+seed.py
+seed_data.py
+uploads/
+doc_service/
